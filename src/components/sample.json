@@ -1,0 +1,140 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: At least one killed in new Russian strikes on Odesa",
+    "description": "Odesa's regional governor said 14 people were hospitalised in the blasts, including four children.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66281027",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3E9D/production/_130492061_mediaitem130491764.jpg",
+    "publishedAt": "2023-07-23T04:22:16.9329898Z",
+    "content": "At least one person has been killed and 19 more injured in fresh Russian missile strikes on the port city of Odesa, officials have said. \r\nRegional Governor Oleh Kiper said 14 people were hospitalise… [+2410 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Spain faces stark left-right divide in hot summer vote",
+    "description": "Resurgent nationalists in Spain aim to roll back the left-wing coalition's reforms.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66258206",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7D44/production/_130486023_gettyimages-1544874374.jpg",
+    "publishedAt": "2023-07-23T03:22:18.6054019Z",
+    "content": "Spaniards go to the polls on Sunday in a general election that offers a choice of two starkly contrasting visions.\r\nSocialist Pedro Sánchez has been prime minister since 2018. \r\nHe hopes his governme… [+3674 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nova Scotia: Four missing after extreme rainfall hits Canada",
+    "description": "The Canadian province of Nova Scotia is experiencing its heaviest rain in half a century.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-66281055",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14ED7/production/_130491758_mediaitem130491589.jpg",
+    "publishedAt": "2023-07-23T00:07:17.4653171Z",
+    "content": "Four people in Canada, including two children, have been reported missing in flooding caused by torrential rains in Nova Scotia, police have said.\r\nOfficials say the heaviest rains to hit the Atlanti… [+2306 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Cambodia election: Polls open in vote with no credible opposition",
+    "description": "Voters going to the ballots say they are certain Hun Sen's ruling party will sweep all seats again.",
+    "url": "http://www.bbc.co.uk/news/world-asia-66264726",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C5EB/production/_130476605_gettyimages-1245607176.jpg",
+    "publishedAt": "2023-07-22T23:37:20.1210111Z",
+    "content": "Cambodia's long-term leader is almost certain to extend his party's rule at an election on Sunday where there no serious challengers.\r\nVoters turning up to the polls in Phnom Penh told the BBC they e… [+2853 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Wagner mutiny: Junior commander reveals his role in the challenge to Putin",
+    "description": "A junior commander says lower-ranking mercenaries had no idea what was happening during the rebellion.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66247915",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/78DE/production/_130424903_pic3.jpg",
+    "publishedAt": "2023-07-22T23:37:18.8713211Z",
+    "content": "A mercenary who took part in the attempted mutiny against Russian President Vladimir Putin says he and his fellow fighters \"didn't have a clue\" what was going on.\r\nIn the space of just 24 hours, the … [+5558 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mexico: Arson attack at bar on US border leaves 11 dead",
+    "description": "A manhunt is underway after a man set fire to a bar after he was kicked out, officials say.",
+    "url": "http://www.bbc.co.uk/news/world-latin-america-66281054",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/132B7/production/_130491587_mediaitem130491583.jpg",
+    "publishedAt": "2023-07-22T22:07:17.2147661Z",
+    "content": "A manhunt is underway in Mexico after a man set fire to a bar following being kicked out, killing 11 people, officials say. \r\nThe attack happened on Friday night in San Luis Rio Colorado, which borde… [+1051 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Greece fires: Thousands flee homes and hotels on Rhodes as fires spread",
+    "description": "Greece's deputy fire chief says the fires are the most difficult his service is currently facing.",
+    "url": "http://www.bbc.co.uk/news/world-europe-66279520",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/701A/production/_130489682_rhodes.jpg",
+    "publishedAt": "2023-07-22T15:52:16.798539Z",
+    "content": "Thousands of people have been evacuated from homes and hotels on the Greek island of Rhodes, according to local authorities.\r\nPrivate boats have joined the Greek coastguard in helping to pick up peop… [+2311 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Crimea bridge closed after fuel depot hit - Russia",
+    "description": "Russian-installed authorities halt railway services in Crimea and say Ukraine was behind a drone strike.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-66276788",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13806/production/_130487897_01317d5e4403772b5e84936f3aea0697f6a441690_0_6421_40331000x628-1.jpg",
+    "publishedAt": "2023-07-22T12:07:20.3468046Z",
+    "content": "A drone attack on an ammunition depot in Crimea has led to civilian evacuations and disrupted transport, Russian authorities have said.\r\nSergei Aksyonov, the Russian-installed governor of occupied Cr… [+2101 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Jamie Foxx: Actor says he's 'on way back' after illness thanks to family",
+    "description": "Actor Jamie Foxx speaks publicly for the first time since being hospitalised earlier this year.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-66276785",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9BC6/production/_130487893_0312b16f7855503fec505a70adc83042526370e20_0_8192_54641000x667.jpg",
+    "publishedAt": "2023-07-22T10:52:18.8628842Z",
+    "content": "Actor Jamie Foxx has said he is on his way back and returning to work after being hospitalised earlier this year.\r\nIn April, his daughter Corrine Foxx said he had experienced a \"medical complication\"… [+2292 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Matty Healy: 1975 show ended in Malaysia after singer attacks anti-LGBT laws",
+    "description": "Matty Healy launched a lengthy attack on Malaysia's laws, before kissing his band's bass player.",
+    "url": "http://www.bbc.co.uk/news/world-asia-66275913",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2FF6/production/_130487221_gettyimages-1528910987.jpg",
+    "publishedAt": "2023-07-22T08:07:20.3453562Z",
+    "content": "British indie band The 1975 have cut short a gig in Malaysia, claiming officials ordered them off stage for breaching the country's anti-LGBT laws.\r\nThe band were headlining the Good Vibes Festival i… [+2715 chars]"
+    }
+    ]
+    }
+
+   
+
+    
